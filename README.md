@@ -2,6 +2,7 @@
 Требования к проекту (frontend)
 
 - React не ниже 17
+- TypeScript
 - Реализовать клиентскую часть приложения, с возможностью авторизации, использовать private routes.
 - Сборщик webpack или vite (позже можно написать свой конфиг и перейти с cra)
 - Pre-commit hooks, husky, lint-staged
