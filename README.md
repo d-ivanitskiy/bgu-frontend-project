@@ -1,7 +1,7 @@
 # bgu-frontend-project
 Требования к проекту (frontend)
 
-Тест
+Тест dev
 
 - React не ниже 17
 - TypeScript
