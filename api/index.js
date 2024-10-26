@@ -8,10 +8,6 @@ app.use((req, res, next) => {
     next();
 });
 
-app.get('/api/items', (req, res) => {
-    console.log(`Server listening on ${PORT}`);
-})
-
 app.listen(PORT, ()=> {
     console.log(`Server listening on ${PORT}`);
 });
