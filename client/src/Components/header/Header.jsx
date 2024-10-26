@@ -15,6 +15,15 @@ export default function Header() {
                 <Link to="/sec">
                     <span>Second page</span> <br/>
                 </Link>
+                <Link to="/register">
+                    <span>Register</span> <br/>
+                </Link>
+                <Link to="/login">
+                    <span>Login</span> <br />
+                </Link>
+                <Link to="/profile">
+                    <span>Profile</span> <br/>
+                </Link>
             </header>
         </>
     )
